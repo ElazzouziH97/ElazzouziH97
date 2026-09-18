@@ -57,18 +57,3 @@ editor       = VS Code / terminal
 
 </div>
 
-<br/>
-
-<details>
-<summary><b>📈 GitHub Stats</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziH97&show_icons=true&bg_color=00000000&border_color=e8b931&icon_color=e8b931&title_color=e8b931&text_color=c9d1d9&hide_border=false&count_private=true" height="180" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziH97&background=00000000&border=e8b931&stroke=e8b931&ring=e8b931&fire=ff6b35&currStreakLabel=e8b931&sideLabels=e8b931&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziH97&bg_color=00000000&color=e8b931&line=e8b931&point=ffffff&area=true&area_color=e8b931&hide_border=false&custom_title=Contributions" width="95%" />
-</div>
-</details>
-
-<br/>

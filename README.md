@@ -72,17 +72,3 @@ editor       = VS Code / terminal
 </details>
 
 <br/>
-
----
-
-<div align="center">
-
-```
-                    ╭──────────────────────────────╮
-                    │  "Simplicity is the ultimate │
-                    │   sophistication."           │
-                    │              — Leonardo da V. │
-                    ╰──────────────────────────────╯
-```
-
-</div>
